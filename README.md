@@ -1,5 +1,6 @@
 # https://wraithew.github.io/LightsOutGame/
  
+Solutions below. Just click the squares with ones in it to solve the puzzle.
 
 ![8-Moves](https://user-images.githubusercontent.com/48034189/158029734-cd613e47-9560-4b68-ba8f-f717052a6532.png)
 #Easy
