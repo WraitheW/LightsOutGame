@@ -1,2 +1,2 @@
-# LightsOutGame
+# https://wraithew.github.io/LightsOutGame/
  
